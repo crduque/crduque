@@ -10,9 +10,7 @@
 
 <a href="https://www.linkedin.com/in/cristinarodriguezduque/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>
 
-</br>
-
-<p>Feel free to contact me!</p>
+### Feel free to contact me!
 
 ## Technologies I know (for now)
 
@@ -25,6 +23,4 @@
 <img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1199/1199128.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/github-128.png" />
 
-</br>
-
-<p>I'm still learning! All advice will be well received </p>
+### I'm still learning! All advice will be well received.
