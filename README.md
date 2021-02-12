@@ -12,7 +12,6 @@ I'm still learning! All advice will be well received.
 Final project of my bootcamp's experience. It's a social media and an e-commerce about books: you can save your favourite books or write some reviews about them, buy them and you can follow other readers with similar preferences!
 
 I used technologies like: React.js, JavaScript, Sass, JWT, RestAPIs, Python with Flask, SQLAlchemy, MySQL...
-<br />
 
 <a href="https://arcade-audio-player.vercel.app/">Arcade Audio Player</a>
 
