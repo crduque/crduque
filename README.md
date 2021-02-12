@@ -8,8 +8,12 @@ I'm still learning! All advice will be well received.
 
 ## Some of my projects:
 <a href="https://punto-y-leido.vercel.app/">Punto y leído</a>
+Final project of my bootcamp's experience. It's a social media and an e-commerce about books: you can save your favourite books or write some reviews about them, buy them and you can follow other readers with similar preferences!
+I used technologies like: React.js, JavaScript, Sass, JWT, RestAPIs, Python with Flask, SQLAlchemy, MySQL...
 <a href="https://arcade-audio-player.vercel.app/">Arcade Audio Player</a>
+Project using RestAPI technology, React and CSS. Just click to see it!
 <a href="#">TicTacToe</a>
+The classic TicTacToe game, created using frontend technologies.
 
 ## Feel free to contact me:
 
