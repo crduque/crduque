@@ -6,6 +6,11 @@ I'm a fullstack web developer finding the next project to be involved in, while 
 
 I'm still learning! All advice will be well received.
 
+## Some of my projects:
+<a href="https://punto-y-leido.vercel.app/">Punto y leído</a>
+<a href="https://arcade-audio-player.vercel.app/">Arcade Audio Player</a>
+<a href="#">TicTacToe</a>
+
 ## Feel free to contact me:
 
 <a href="mailto:cristinard.info@gmail.com"><img align="left" alt="Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-128.png" /></a>
