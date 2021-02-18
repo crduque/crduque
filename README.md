@@ -17,7 +17,7 @@ I used technologies like: React.js, JavaScript, Sass, JWT, RestAPIs, Python with
 
 Project using RestAPI technology, React and CSS. Just click to see it!
 
-<a href="https://vercel.com/crduque/tictactoe">TicTacToe</a>
+<a href="https://tictactoe-ten.vercel.app/">TicTacToe</a>
 
 The classic TicTacToe game, created using frontend technologies.
 
