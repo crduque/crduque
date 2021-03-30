@@ -25,7 +25,7 @@ The classic TicTacToe game, created using frontend technologies.
 
 <a href="mailto:cristinard.info@gmail.com"><img align="left" alt="Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-128.png" /></a>
 <a href="https://www.linkedin.com/in/cristinarodriguezduque/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>  
-
+<a href="https://www.hackerrank.com/crduque"><img align="left" alt="hackerRank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" /></a>
 <br />
 
 ## Technologies I know (for now):
